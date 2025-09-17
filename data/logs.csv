@@ -1,0 +1,11 @@
+timestamp,level,message,anomaly
+2025-01-01 00:00:00,INFO,Service started,0
+2025-01-01 01:00:00,ERROR,Disk error detected,1
+2025-01-01 02:00:00,WARN,High memory usage,1
+2025-01-01 03:00:00,INFO,User login successful,0
+2025-01-01 04:00:00,ERROR,Database connection error,1
+2025-01-01 05:00:00,INFO,Heartbeat OK,0
+2025-01-01 06:00:00,DEBUG,Debug metrics collected,0
+2025-01-01 07:00:00,ERROR,Out of memory error,1
+2025-01-01 08:00:00,INFO,Service healthy,0
+2025-01-01 09:00:00,WARN,Warning: high CPU,1

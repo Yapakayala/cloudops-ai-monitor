@@ -1,0 +1,53 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs & outputs
+*.log
+*.out
+*.err
+
+# Model artifacts
+*.pth
+*.pt
+*.onnx
+
+# Data files (keep only small samples in repo)
+data/preprocessed_logs.csv
+data/*.npy
+data/*.npz
+
+# Environment variables
+.env
+*.env
+
+# Jupyter / Streamlit
+.ipynb_checkpoints/
+.streamlit/
+
+# Docker
+*.pid
+*.tar
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build / distribution
+dist/
+build/
+*.egg-info/

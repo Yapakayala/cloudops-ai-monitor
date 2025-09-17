@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+torch
+torchvision
+pandas
+numpy
+scikit-learn
+pydantic
+pydantic-ai
+pydantic-ai[openai]
+sagemaker
+boto3
+streamlit
+requests
